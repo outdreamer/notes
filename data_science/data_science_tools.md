@@ -26,6 +26,16 @@
 	- propensity modeling
     - lifetime value estimation
     - segmentation
+	1. Cross-correlation: a measure of similarity of two series as a function of the distortion of one relative to the other
+	2. Convolution: an integral that expresses the amount of overlap of one function as it is shifted over another function
+		Convolutions help determine the correct activation function, and is similar to cross-correlation
+		The Convolution operation produces a third function (a modified version of one of the original functions in the pair). Then the operation multiplies the two original functions and takes the integral, based on the degree of distortion present, compared to the original function version.
+		So the convolution of functions f and g is the integral of f x g after one function is reversed/shifted
+		You reverse one of the functions, find where they intersect, and for each point in that intersecting range, 
+		compute the integral of their product using the intersecting versions of the functions, and weight this integral acccording to the ratio of the range this point represents.
+
+	- Computational Complexity: sorting problems are related to machine-learning; the number of operations you would need to do in order to solve a problem is the core concept of the computational complexity of a problem. If that reminds you of neural networks or data science in general, you're not alone. Some problem types (like classification, which is a sorting problem) can be solved with machine-learning and a sufficient data set. Operations like 	alphabetical sort, or find numbers following a certain pattern in the following sequence, have an expected execution time. You can minimize the execution time by executing the right sorting operations in the right order, just like you can minimize the time to solve a problem with machine-learning by adjusting parameters & sanitizing data.
+
 
 # Functions
 
@@ -35,6 +45,23 @@
 
 
 # Tasks
+
+	- feature importance:
+		- use partial dependence plots to see impact of multiple vars
+		https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c
+
+	- model validation
+	  - if youre predicting a minimum/maximum with gradient descent, does it reflect local or absolute values?
+	  - is there enough variety in the test data (avoid overfitting)
+	  - is the sample size enough, was the data gathered without bias?
+	  - split the data into training data & validation/test data
+	  - use jackknife resampling if the dataset is small
+	  - measure validity with r squared and mean squared error
+	  - test if model appears the same when trained on new data
+	  - test if model is accurate when fed test data
+	  - look for multicollinearity, where you have two variables so tightly correlated that they essentially give the same signal so theyre redundant
+	    multicollinearity affects the calculations done on individual variables, like finding out the impact of one independent variable on the dependent variable
+	    however a multivariate regression model with collinear predictors can still give a good grasp on how the entire set of input variables impact the output variable.
 
 	- selecting hypothesis test: https://towardsdatascience.com/which-hypothesis-test-to-perform-89d7044d34a1
 		- use z test for proportion, t test for mean
@@ -218,9 +245,33 @@
 				TD3:				Twin Delayed Deep Deterministic Policy Gradient
 				SAC:				Soft Actor-Critic
 
-		- unsupervised
+		- Supervised (Trained model)
+			Regression (function-approximation of continuous output)
+				1. Linear Regression
+				2. Perceptron 
+				3. Logistic Regression
+			Classification (categorization function of discrete output)
+				1. Support Vector Machines (SVM)
+				2. Decision Tree
+				3. Random Forest
+				4. Certain types of Neural Networks
+				5. K-Nearest Neighbor
+				6. Naive Bayes
+				7. Back-propagation
 
-			- clustering
+		- Unsupervised 
+
+			- PCA
+			- Clustering
+				- K-Means
+				- Anomaly Detection
+				- A priori Algorithm
+				- Hierarchical Clustering
+			- Deep learning (certain neural network types)
+
+		- Reinforcement Learning:
+			- Markov Decision Process
+			- Q Learning
 
 		- supervised
 
@@ -355,6 +406,7 @@
 		    	- different sources of diversity
 
 
+## terms
 
 Featurization/feature extraction: 
   process of transforming raw data into feature/input vectors of fixed length so it can be used in ml algorithms
@@ -560,16 +612,3 @@ recall: number of correct positive predictions / number of all positive data poi
 precision: number of correct positive predictions / all positive predictions
 
 linear vs. multivariate: in linear models, x is mapped to y, in multivariate models, a vector of inputs is mapped to y
-
-validate the model:
-  - if youre predicting a minimum/maximum with gradient descent, does it reflect local or absolute values?
-  - is there enough variety in the test data (avoid overfitting)
-  - is the sample size enough, was the data gathered without bias?
-  - split the data into training data & validation/test data
-  - use jackknife resampling if the dataset is small
-  - measure validity with r squared and mean squared error
-  - test if model appears the same when trained on new data
-  - test if model is accurate when fed test data
-  - look for multicollinearity, where you have two variables so tightly correlated that they essentially give the same signal so theyre redundant
-    multicollinearity affects the calculations done on individual variables, like finding out the impact of one independent variable on the dependent variable
-    however a multivariate regression model with collinear predictors can still give a good grasp on how the entire set of input variables impact the output variable.
