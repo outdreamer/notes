@@ -306,7 +306,8 @@
 	- lagrangian: 
 		- Lagrangian density: a scalar can be constructed from a field tensor φ and its derivatives
 			- evaluate the derivative of the Lagrangian density with respect to the field components & and the derivatives of the field components
-		- from this density, the action functional can be constructed by integrating over spacetime, where -g ^ 1/2 is viewed as the 'jacobian' in curved spacetime: integral of Lagrangian density * jacobian d4x
+		- from this density, the action functional can be constructed by integrating over spacetime, where -g ^ 1/2 is viewed as the 'jacobian' in curved spacetime: 
+			integral of Lagrangian density * jacobian d4x
 		- lagrangian: the integral of the Lagrangian density over all space
 	
 	- hamiltonian: 
