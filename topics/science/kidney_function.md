@@ -4,9 +4,9 @@
 
 - protocol
 	- reducing protein/salt/potassium/phosphorus, creatinine-increasing substances (see below) & artificial substances helped me, as well as:
-		- amino acids: bcaa's, glutamine, and nac
+		- amino acids: bcaa's, glutamine, nac, arginine, carnosine
 		- coq10
-		- magnesium/calcium to bind to phosphorus & oxalates
+		- magnesium/calcium to bind to phosphorus/oxalates, & balance sodium/potassium
 		- vitamin d
 		- omega 3's
 		- water/rest
@@ -18,12 +18,14 @@
 		- quercetin
 		- ecgc (green tea)
 
-	- one of the following (or an accumulation of the protocol above) helped me recover from damaged tissue as a result of heart failure, blood pressure problems, and lack of blood flow to the kidneys
+	- one of the following (or an accumulation of the protocol above, or a combination) helped me recover from damaged kidney & heart tissue as a result of heart failure, blood pressure problems, and lack of blood flow to the kidneys
 		- carnosine
+		- arginine
 		- chitosan (with chromium)
 		- fucoidan from bladderwrack
 		- salvia
 
+	- if you want to add as few supplements as possible while maximizing benefits, Id add arginine & coq10
 
 - key questions
 
