@@ -3,12 +3,37 @@
 	- disclaimer: https://github.com/outdreamer/build-a-cure/blob/master/docs/example_output/disclaimer.md
 
 - protocol
-	- reducing protein/salt/potassium/phosphorus, creatinine-increasing substances (see below) & artificial substances helped me, as well as:
-		- amino acids: bcaa's, glutamine, nac, arginine, carnosine
+
+	1. when I had end-stage renal disease symptoms (side pain, nerve pain, heart failure & high blood pressure symptoms, closed/tight throat, headaches from toxins, etc), here's what helped:
+		- chugging olive oil for most of my calories, otherwise eating 20 g protein or less per day, and staying under 1 g of salt, including a balance of potassium/magnesium anytime I ate salt, and no seasoning
+		- intermittent fasting (eat all my calories at once, once per day)
+		- taking omega 3-6-9 supplement from Now Foods (about 4 per day, before eating)
+		- taking other supplements in point 2 below
+		- taking a teaspoon of bcaa's before eating
+		- taking coq10 with hawthorne
+		- drinking water (nothing else, no flavored seltzer or anything)
+		- rest
+		- get enough calcium, potassium, magnesium, and folate (and avoid anything that would offset these, like how collagen can lead to too much calcium)
+		- taking melatonin & taking no caffeine (to help reduce blood pressure)
+		- other things that might help in small amounts if you have high blood pressure/heart failure, though I didn't take most of these at the time, except arginine & a multivitamin, and some of these will hurt your kidneys like berberine or cayenne/garlic:
+		  - increase vasodilation (arginine => nitric oxide, vitamin c, parsley, ginger, fish oil, hibiscus, berberine)
+		  - lower cholesterol (garlic, fiber, celery, lemon, onion, cayenne, coconut oil, green tea (ecgc), fenugreek, watermelon seeds - cucurbocitrin), avoid saturated/trans fat
+
+	2. a general protocol that helped me:
+		- reducing protein/salt/potassium/phosphorus
+		- reducing creatinine-increasing substances (see below) & artificial substances
+		- replacing protein with peptides, amino acids, or keto acids (in decreasing order of processing difficulty for kidneys)
+		- amino acids: bcaa's, glutamine, nac, arginine, carnitine
 		- coq10
 		- magnesium/calcium to bind to phosphorus/oxalates, & balance sodium/potassium
 		- vitamin d
+		- enzymes before eating to reduce processing work a little
 		- omega 3's
+		- omega 6, specifically arachidonic acid, which is metabolized to PGH2 and then to prostaglandin e2, which may help regulate inflammation & repair kidney cells
+			https://www.sciencedaily.com/releases/2013/04/130416121748.htm
+			- Fish oils provide alternative fatty acids to arachidonic acid. These acids can be turned into some anti-inflammatory prostacyclins by COX instead of pro-inflammatory prostaglandins
+			  - prostacyclins include:
+			    - prostaglandin I2, a known regulator of renal cortical blood flow, in addition to having anti-inflammatory effects and to protect against renal failure
 		- water/rest
 
 	- the following may have helped me either recover, prevent symptoms, or maintain state:
@@ -25,7 +50,25 @@
 		- fucoidan from bladderwrack
 		- salvia
 
-	- if you want to add as few supplements as possible while maximizing benefits, Id add arginine & coq10
+	- if you want to add as few supplements as possible while maximizing benefits, Id add arginine, & coq10 & a omega 3-6-9 supplement like fish oil
+
+	- regulate your blood pressure or your kidneys wont be able to heal
+
+	- risk of cardiovascular events was increased in both the group with the highest & lowest protein intake
+
+	- avoid excessive oxalates (collagen), which can lead to conditions like hypercalcemia
+
+	- keep your cholesterol low
+		- cholesterol-lowering supplements
+		  - plant sterols
+		  - beta-glucans
+		  - bergamot orange
+		  - garlic
+		  - lycopene
+		  - glucomannan
+		  - green tea polyphenols
+		  - olive leaf extracts
+		  - red yeast rice
 
 - key questions
 
@@ -40,6 +83,7 @@
 	- muscle weakness: fluid & electrolyte imbalance
 	- chest pain: inflammation of heart lining 
 	- lung pain: fluid buildup 
+	- kidney pain: kidneys may experience pain if there is a stone present, if they are infected or if they are blocked
 
 - kidney damage causes
 
@@ -166,6 +210,8 @@
 	  - reduce fibrosis
 	    - Gynostemma (reduce fibrosis)
 	    - ginger (remove toxins, reduce fibrosis)
+	    	- Gingerols attenuated septic AKI by decreasing renal disturbances, oxidative stress, and inflammatory response through a mechanism possibly correlated with increased production of dimethylamine and methylsulfonylmethane (MSM)
+
 	    - Punarnava/Boerhavia diffusa (regulating the creatinine level, diuretic, reduces kidney stones, reduces fibrosis)
 
 	  - reduce creatinine (also anything that increases GFR will help reduce blood creatinine)
@@ -189,7 +235,7 @@
 	    - water
 
 	    - avoid: 
-	      - potassium, sodium, phosphorus, creatine, nsaids, ace inhibitors, vanadium, diuretics, arginine tends to increase the liver’s production of creatine
+	      - potassium, sodium, phosphorus, creatine (precursor to creatinine), nsaids (may inhibit prostaglandin synthesis), ace inhibitors, vanadium, diuretics, arginine tends to increase the liver’s production of creatine
 	      - foods like meat, dairy, chocolate, nuts, soy, eggs, seaweed, spirulina, & gelatin will raise creatinine
 	      - The amino acids methionine, arginine, & glycine are processed in the kidneys to produce guanidinoacetic acid, which is then sent to the liver where it is converted to another amino acid called creatine. Creatinine is a waste byproduct of metabolizing creatine
 	    	- try: cucumber 
