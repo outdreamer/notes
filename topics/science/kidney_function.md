@@ -13,6 +13,8 @@
 		- taking coq10 with hawthorne
 		- drinking water (nothing else, no flavored seltzer or anything)
 		- rest
+		- moderate heat to increase blood flow to kidneys
+		- deep breathing sessions (10 - 20 minutes several times a day) to increase circulation & recovery
 		- get enough calcium, potassium, magnesium, and folate (and avoid anything that would offset these, like how collagen can lead to too much calcium)
 		- taking melatonin & taking no caffeine (to help reduce blood pressure)
 		- other things that might help in small amounts if you have high blood pressure/heart failure, though I didn't take most of these at the time, except arginine & a multivitamin, and some of these will hurt your kidneys like berberine or cayenne/garlic:
@@ -150,8 +152,8 @@
 	      - alfalfa, dandelion, garlic, lemongrass, nettle, turmeric
 	    - high phosphorus herbs:
 	      - flax, milk thistle, onion, nettle, turmeric, sunflower
-	    - avoid with kidney disease:
-	      - astragalus, goldenrod, horsetail, java, nettle, oregon grape, parsley, uva ursi, yohimbe, juniper
+	    - avoid in excess with kidney disease bc depending on the type of kidney problem you have, these may exacerbate it:
+	      - astragalus, goldenrod, horsetail, java, nettle, oregon grape, parsley, uva ursi, yohimbe, juniper, sage
 	    - oxalate
 	    	- high oxalate: nuts, chocolate, soy, beans, starchy vegetables, & greens
 			- low oxalate: mushrooms, cucumbers, celery, iceberg lettuce & cauliflower
@@ -211,7 +213,6 @@
 	    - Gynostemma (reduce fibrosis)
 	    - ginger (remove toxins, reduce fibrosis)
 	    	- Gingerols attenuated septic AKI by decreasing renal disturbances, oxidative stress, and inflammatory response through a mechanism possibly correlated with increased production of dimethylamine and methylsulfonylmethane (MSM)
-
 	    - Punarnava/Boerhavia diffusa (regulating the creatinine level, diuretic, reduces kidney stones, reduces fibrosis)
 
 	  - reduce creatinine (also anything that increases GFR will help reduce blood creatinine)
@@ -231,17 +232,20 @@
 	    - salvia/red sage
 	    - chinese rhubarb
 	    - nettle
-	    - dandelion root
-	    - water
+	    - water (unless you need to reduce fluid for another reason, such as a heart condition that may require fluid restriction)
+	    - cucumber
+	    - chicory
 
 	    - avoid: 
 	      - potassium, sodium, phosphorus, creatine (precursor to creatinine), nsaids (may inhibit prostaglandin synthesis), ace inhibitors, vanadium, diuretics, arginine tends to increase the liver’s production of creatine
-	      - foods like meat, dairy, chocolate, nuts, soy, eggs, seaweed, spirulina, & gelatin will raise creatinine
-	      - The amino acids methionine, arginine, & glycine are processed in the kidneys to produce guanidinoacetic acid, which is then sent to the liver where it is converted to another amino acid called creatine. Creatinine is a waste byproduct of metabolizing creatine
-	    	- try: cucumber 
+	      - foods like meat, dairy, chocolate, nuts, soy, seeds, eggs, seafood, seaweed, spirulina, & gelatin will raise creatinine
+	      	- during the cooking process, creatine will dissolve and produce more creatinine
+	      - The amino acids methionine, arginine, & glycine are processed in the kidneys to produce guanidinoacetic acid, which is then sent to the liver where it is converted to another amino acid called creatine. 
+	      - Creatinine is a waste byproduct of metabolizing creatine
 
 	  - reduce bun level: 
 	  	- Polyenylphosphatidycholine (egg/soy, alternative version in lecithin)
+	  	- barley
 
 	  - reduce blood ammonia
 	    - kidneys cannot easily remove excess water, salt, or potassium from the blood
