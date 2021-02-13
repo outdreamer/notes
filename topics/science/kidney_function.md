@@ -596,7 +596,8 @@
 	    - treatments
 	        - high phosphorus: calcium carbonate/acetate
 	        - high calcium: fluid or calcitonin
-	        - high sodium: water, thiazide diuretics (e.g., chlorthalidone) in congestive heart failure or corticosteroids in nephropathy 
+	        - high sodium: water, or thiazide diuretics (e.g., chlorthalidone) in congestive heart failure or corticosteroids in nephropathy 
+	        - high potassium: Calcium gluconate, sodium bicarbonate
 
 	    - related conditions to electrolyte imbalance
 
@@ -619,6 +620,13 @@
 	        
 	      - high sodium 
 	        - thirst, confusion, muscle twitching, spasms, seizures, comas
+
+	      - low potassium 
+	      	- elevation of blood pressure, can provoke the development of an abnormal heart rhythm, muscle weakness, myalgia, tremor, muscle cramps/constipation (from disturbed function of skeletal/smooth muscle), flaccid paralysis, hyporeflexia, rhabdomyolysis, respiratory depression
+
+	      - high potassium 
+	      	- tired, numbness, weakness, occasionally palpitations, shortness of breath (hyperventilation may indicate a compensatory response to metabolic acidosis, which is one of the possible causes of hyperkalemia)
+	      	- associated with cardiovascular events
 
 	      - low phosphorus 
 	        - Muscle dysfunction and weakness – occurs in major muscles, but also may manifest as: diplopia, low cardiac output, dysphagia, and respiratory depression due to respiratory muscle weakness
