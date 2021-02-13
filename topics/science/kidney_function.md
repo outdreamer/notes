@@ -246,6 +246,9 @@
 	  - reduce bun level: 
 	  	- Polyenylphosphatidycholine (egg/soy, alternative version in lecithin)
 	  	- barley
+	  	- cranberry, pomegranate, cucumber, bitter gourd
+	  	- avoid high protein consumption, just like with reducing creatinine
+
 
 	  - reduce blood ammonia
 	    - kidneys cannot easily remove excess water, salt, or potassium from the blood
@@ -587,6 +590,71 @@
 - symptoms of kidney damage cause types: https://www.aafp.org/afp/2012/1001/p631.html
 
 	- symptoms of related conditions
+
+	  - electrolyte imbalance: 
+
+	    - treatments
+	        - high phosphorus: calcium carbonate/acetate
+	        - high calcium: fluid or calcitonin
+	        - high sodium: water, thiazide diuretics (e.g., chlorthalidone) in congestive heart failure or corticosteroids in nephropathy 
+
+	    - related conditions to electrolyte imbalance
+
+	        - neuropathy
+			    - possible electrolyte imbalance causes 
+			      - deficiencies of essential nutrients like thiamine (vitamin B1)
+			      - high zinc
+			      - high phosphorus level => calcium phosphate deposits
+			      - hyperparathyroidism
+
+			- high blood pressure
+			    - possible nutrient imbalance causes
+			      - low zinc/phosphorus/magnesium/calcium
+
+		- symptoms
+
+	      - low sodium 
+	        - nausea, vomiting, headache, short-term memory loss, confusion, lethargy, fatigue, loss of appetite, irritability, muscle weakness, spasms, cramps, seizures, decreased consciousness, coma
+	        - cerebral edema, increased skull pressure, brain stem compression and respiratory arrest, and non-cardiogenic accumulation of fluid in the lungs
+	        
+	      - high sodium 
+	        - thirst, confusion, muscle twitching, spasms, seizures, comas
+
+	      - low phosphorus 
+	        - Muscle dysfunction and weakness – occurs in major muscles, but also may manifest as: diplopia, low cardiac output, dysphagia, and respiratory depression due to respiratory muscle weakness
+	        - Mental status changes – This may range from irritability to gross confusion, delirium, and coma
+	        - White blood cell dysfunction, causing worsening of infections
+	        - Instability of cell membranes due to low adenosine triphosphate (ATP) levels – This may cause rhabdomyolysis (skeletal muscle breakdown) with increased serum levels of creatine phosphokinase, and also hemolytic anemia.
+	        - Increased affinity for oxygen in the blood caused by decreased production of 2,3-bisphosphoglyceric acid
+
+	      - high phosphorus 
+	        - calcium deposits in the soft tissue
+	        - often there is also low calcium levels which can result in muscle spasms
+	        - hyperparathyroidism
+	      
+	      - low magnesium 
+	        - tiredness, generalized weakness, muscle cramps, abnormal heart rhythms, increased irritability of the nervous system with tremors, paresthesias, palpitations, low potassium levels in the blood, hypoparathyroidism which might result in low calcium levels in the blood, chondrocalcinosis, spasticity and tetany, migraines, epileptic seizures, basal ganglia calcifications
+	      
+	      - high magnesium 
+	        - weakness, confusion, decreased breathing rate, decreased reflexes, nausea, low blood pressure, low blood calcium, abnormal heart rhythms and asystole, dizziness, sleepiness, abnormal heart rhythms, asystole        
+	      
+	      - low calcium
+	        - convulsions, arrhythmias, tetany, and numbness in the hands and feet and around the mouth
+	        - Petechiae which appear as on-off spots, then later become confluent, and appear as purpura (larger bruised areas, usually in dependent regions of the body)
+	        - Oral, perioral and acral paresthesias, tingling or 'pins and needles' sensation in and around the mouth and lips, and in the extremities of the hands and feet. 
+	          This is often the earliest symptom of hypocalcaemia.
+	        - Carpopedal and generalized tetany (unrelieved and strong contractions of the hands, and in the large muscles of the rest of the body) are seen.
+	        - Tendon reflexes are hyperactive
+	        - Cardiac arrhythmias
+	        - decrease in heart rate
+	        - decrease in contractility
+	        - electrical instability
+
+	      - high calcium 
+	        - cardiac arrhythmias (especially in those taking digoxin), fatigue, nausea, vomiting (emesis), loss of appetite, abdominal pain, & paralytic ileus
+	        - If kidney impairment occurs as a result, manifestations can include increased urination, urination at night, and increased thirst.
+
+	  - hydronephrosis, or fluid around the kidney or kidneys
 
 	  - hypercalcemia symptoms:
 	    - weakness and fatigue, depression, bone pain, muscle soreness (myalgias), decreased appetite, feelings of nausea and vomiting, constipation, polyuria, polydipsia, cognitive impairment, kidney stones ([nb 1]) and osteopenia or osteoporosis
