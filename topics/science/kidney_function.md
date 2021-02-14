@@ -13,21 +13,23 @@
 		- taking coq10 with hawthorne
 		- drinking water (nothing else, no flavored seltzer or anything)
 		- rest
-		- moderate heat to increase blood flow to kidneys
+		- moderate heat like in a shower or exercise to increase blood flow to kidneys
+		- cold to reduce blood pressure
 		- deep breathing sessions (10 - 20 minutes several times a day) to increase circulation & recovery
 		- get enough calcium, potassium, magnesium, and folate (and avoid anything that would offset these, like how collagen can lead to too much calcium)
+			- b vitamins may be especially relevant to add in small doses if you have a heart condition as well
 		- taking melatonin & taking no caffeine (to help reduce blood pressure)
 		- other things that might help in small amounts if you have high blood pressure/heart failure, though I didn't take most of these at the time, except arginine & a multivitamin, and some of these will hurt your kidneys like berberine or cayenne/garlic:
 		  - increase vasodilation (arginine => nitric oxide, vitamin c, parsley, ginger, fish oil, hibiscus, berberine)
 		  - lower cholesterol (garlic, fiber, celery, lemon, onion, cayenne, coconut oil, green tea (ecgc), fenugreek, watermelon seeds - cucurbocitrin), avoid saturated/trans fat
 
 	2. a general protocol that helped me:
-		- reducing protein/salt/potassium/phosphorus
+		- reducing protein, replacing it with peptides, amino acids, or keto acids (in decreasing order of processing difficulty for kidneys compared to protein)
+		- balancing electrolytes/minerals
+			- get the ratio of electrolytes & minerals like magnesium/calcium that you need given your phase/condition to bind to phosphorus/oxalates, & balance sodium/potassium
 		- reducing creatinine-increasing substances (see below) & artificial substances
-		- replacing protein with peptides, amino acids, or keto acids (in decreasing order of processing difficulty for kidneys)
 		- amino acids: bcaa's, glutamine, nac, arginine, carnitine
 		- coq10
-		- magnesium/calcium to bind to phosphorus/oxalates, & balance sodium/potassium
 		- vitamin d
 		- enzymes before eating to reduce processing work a little
 		- omega 3's
@@ -633,8 +635,9 @@
 	      	- elevation of blood pressure, can provoke the development of an abnormal heart rhythm, muscle weakness, myalgia, tremor, muscle cramps/constipation (from disturbed function of skeletal/smooth muscle), flaccid paralysis, hyporeflexia, rhabdomyolysis, respiratory depression
 
 	      - high potassium 
-	      	- tired, numbness, weakness, occasionally palpitations, shortness of breath (hyperventilation may indicate a compensatory response to metabolic acidosis, which is one of the possible causes of hyperkalemia)
+	      	- fatigue, nausea, numbness, weakness, occasionally palpitations, shortness of breath (hyperventilation may indicate a compensatory response to metabolic acidosis, which is one of the possible causes of hyperkalemia)
 	      	- associated with cardiovascular events
+	    	- if your potassium spikes suddenly, you may experience difficulty breathing, chest pain, or heart palpitations, numbness or tingling, vomiting, irregular pulse
 
 	      - low phosphorus 
 	        - Muscle dysfunction and weakness – occurs in major muscles, but also may manifest as: diplopia, low cardiac output, dysphagia, and respiratory depression due to respiratory muscle weakness
@@ -660,7 +663,10 @@
 	        - Petechiae which appear as on-off spots, then later become confluent, and appear as purpura (larger bruised areas, usually in dependent regions of the body)
 	        - Oral, perioral and acral paresthesias, tingling or 'pins and needles' sensation in and around the mouth and lips, and in the extremities of the hands and feet. 
 	          This is often the earliest symptom of hypocalcaemia.
-	        - Carpopedal and generalized tetany (unrelieved and strong contractions of the hands, and in the large muscles of the rest of the body) are seen.
+	        - Carpopedal and generalized tetany (unrelieved and strong contractions of the hands, and in the large muscles of the rest of the body) are seen
+	        - Latent tetany
+		      - Trousseau sign of latent tetany (eliciting carpal spasm by inflating the blood pressure cuff and maintaining the cuff pressure above systolic)
+		      - Chvostek's sign (tapping of the inferior portion of the cheekbone will produce facial spasms)[8]
 	        - Tendon reflexes are hyperactive
 	        - Cardiac arrhythmias
 	        - decrease in heart rate
@@ -668,22 +674,11 @@
 	        - electrical instability
 
 	      - high calcium 
+	      	- weakness and fatigue, depression, bone pain, muscle soreness (myalgias), decreased appetite, feelings of nausea and vomiting, constipation, polyuria, polydipsia, cognitive impairment, kidney stones ([nb 1]) and osteopenia or osteoporosis
 	        - cardiac arrhythmias (especially in those taking digoxin), fatigue, nausea, vomiting (emesis), loss of appetite, abdominal pain, & paralytic ileus
 	        - If kidney impairment occurs as a result, manifestations can include increased urination, urination at night, and increased thirst.
 
 	  - hydronephrosis, or fluid around the kidney or kidneys
-
-	  - hypercalcemia symptoms:
-	    - weakness and fatigue, depression, bone pain, muscle soreness (myalgias), decreased appetite, feelings of nausea and vomiting, constipation, polyuria, polydipsia, cognitive impairment, kidney stones ([nb 1]) and osteopenia or osteoporosis
-
-	  - hypocalcemia symptoms:
-
-	    - Petechiae which appear as on-off spots, then later become confluent, and appear as purpura (larger bruised areas, usually in dependent regions of the body).[citation needed]
-	    - Oral, perioral and acral paresthesias, tingling or 'pins and needles' sensation in and around the mouth and lips, and in the extremities of the hands and feet. This is often the earliest symptom of hypocalcaemia.
-	    - Carpopedal and generalized tetany (unrelieved and strong contractions of the hands, and in the large muscles of the rest of the body) are seen.
-	    - Latent tetany
-	      - Trousseau sign of latent tetany (eliciting carpal spasm by inflating the blood pressure cuff and maintaining the cuff pressure above systolic)
-	      - Chvostek's sign (tapping of the inferior portion of the cheekbone will produce facial spasms)[8]
 
 	  - low/high blood pressure
 
@@ -735,12 +730,6 @@
             Generalized or focal seizures
 
 	  - fasting: drowsy, irritable, headache
-
-	- symptoms of electrolyte imbalances
-
-	  - High potassium
-	    - usually develops slowly over weeks or months. This can lead to feelings of fatigue or nausea
-	    - If your potassium spikes suddenly, you may experience difficulty breathing, chest pain, or heart palpitations, numbness or tingling, vomiting, irregular pulse
 
 	- symptom interactions
 		- Hard exercise can make your blood sugar levels dip, which can lead to hypoglycemia
