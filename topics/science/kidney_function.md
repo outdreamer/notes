@@ -593,11 +593,11 @@
 
 	  - electrolyte imbalance: 
 
-	    - treatments
+	    - treatments (disregarding medical prescriptions if you cant get them)
 	        - high phosphorus: calcium carbonate/acetate
 	        - high calcium: fluid or calcitonin
-	        - high sodium: water, or thiazide diuretics (e.g., chlorthalidone) in congestive heart failure or corticosteroids in nephropathy 
-	        - high potassium: Calcium gluconate, sodium bicarbonate
+	        - high sodium: water (thiazide diuretics like chlorthalidone in congestive heart failure or corticosteroids in nephropathy)
+	        - high potassium: calcium gluconate, sodium bicarbonate
 
 	    - related conditions to electrolyte imbalance
 
@@ -608,11 +608,19 @@
 			      - high phosphorus level => calcium phosphate deposits
 			      - hyperparathyroidism
 
-			- high blood pressure
-			    - possible nutrient imbalance causes
-			      - low zinc/phosphorus/magnesium/calcium
+				- high blood pressure cause => possible nutrient imbalance causes
+				  - low zinc/phosphorus/magnesium/calcium
 
 		- symptoms
+
+		  - to do: add relationship between electrolytes (absorption, counteractive/synergistic effects, indirect effects, extreme effects)
+
+		    - relationships
+		  		- calcium, magnesium, vitamin D 
+		  		- sodium, potassium
+		  		- calcium, magnesium, phosphorus
+		  		- primary: iron, zinc, calcium, magnesium, phosphorus, sodium, potassium
+		  		- other minerals/vitamins
 
 	      - low sodium 
 	        - nausea, vomiting, headache, short-term memory loss, confusion, lethargy, fatigue, loss of appetite, irritability, muscle weakness, spasms, cramps, seizures, decreased consciousness, coma
@@ -647,6 +655,7 @@
 	        - weakness, confusion, decreased breathing rate, decreased reflexes, nausea, low blood pressure, low blood calcium, abnormal heart rhythms and asystole, dizziness, sleepiness, abnormal heart rhythms, asystole        
 	      
 	      - low calcium
+	      	- numbness, muscle spasms, seizures, confusion, or cardiac arrest
 	        - convulsions, arrhythmias, tetany, and numbness in the hands and feet and around the mouth
 	        - Petechiae which appear as on-off spots, then later become confluent, and appear as purpura (larger bruised areas, usually in dependent regions of the body)
 	        - Oral, perioral and acral paresthesias, tingling or 'pins and needles' sensation in and around the mouth and lips, and in the extremities of the hands and feet. 
