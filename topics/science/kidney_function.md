@@ -593,6 +593,17 @@
 
 	- symptoms of related conditions
 
+	  - diabetic ketoacidosis
+	      - when the body switches to burning fatty acids, which produces acidic ketone bodies
+	      - DKA is typically diagnosed when testing finds high blood sugar, low blood pH and ketoacids in either the blood or urine
+	      - symptoms
+	        - nausea and vomiting, pronounced thirst, excessive urine production and abdominal pain that may be severe
+	        - in severe DKA, breathing becomes rapid and of a deep, gasping character, called "Kussmaul breathing"
+	        - abdomen may be tender to the point that a serious abdominal condition may be suspected, such as acute pancreatitis, appendicitis or gastrointestinal perforation
+	        - Vomiting altered blood that resembles coffee grounds occurs in a minority of people and tends to originate from erosion of the esophagus
+	        - In severe DKA, there may be confusion or a marked decrease in alertness, including coma
+	        - brain swelling, also called cerebral edema, which may cause headache, coma, loss of the pupillary light reflex
+
 	  - electrolyte imbalance: 
 
 	    - treatments (disregarding medical prescriptions if you cant get them)
@@ -615,14 +626,31 @@
 
 		- symptoms
 
-		  - to do: add relationship between electrolytes (absorption, counteractive/synergistic effects, indirect effects, extreme effects)
+		  - to do: add relationship between electrolytes (dosage, timing, absorption, counteractive/synergistic effects, indirect effects, extreme effects)
 
 		    - relationships
 		  		- calcium, magnesium, vitamin D 
 		  		- sodium, potassium
 		  		- calcium, magnesium, phosphorus
+		  		- interaction of manganese with iron, zinc, aluminum, and copper
 		  		- primary: iron, zinc, calcium, magnesium, phosphorus, sodium, potassium
 		  		- other minerals/vitamins
+
+		  	- co-occurrence
+		  		- selenium & iodine deficiency
+		  		- copper & zinc deficiency
+		  		- copper & b12 deficiency
+		  		- increased calcium & iodine deficiency
+
+		  	- manganese deficiency inhibits collagen
+		  	- high iron/magnesium/calcium may inhibit manganese
+		  	- high molybdenum leads to copper deficiency
+		  	- high fluoride associated with lower iodine
+		  	
+		  	- disturbed iron metabolism could underlie the neurotoxic action of manganese
+
+		  	- Supplemental zinc can prevent iron absorption, leading to iron deficiency and possible peripheral neuropathy, with loss of sensation in extremities
+		  	- Zinc and iron should be taken at different times of the day
 
 	      - low sodium 
 	        - nausea, vomiting, headache, short-term memory loss, confusion, lethargy, fatigue, loss of appetite, irritability, muscle weakness, spasms, cramps, seizures, decreased consciousness, coma
@@ -655,7 +683,110 @@
 	        - tiredness, generalized weakness, muscle cramps, abnormal heart rhythms, increased irritability of the nervous system with tremors, paresthesias, palpitations, low potassium levels in the blood, hypoparathyroidism which might result in low calcium levels in the blood, chondrocalcinosis, spasticity and tetany, migraines, epileptic seizures, basal ganglia calcifications
 	      
 	      - high magnesium 
-	        - weakness, confusion, decreased breathing rate, decreased reflexes, nausea, low blood pressure, low blood calcium, abnormal heart rhythms and asystole, dizziness, sleepiness, abnormal heart rhythms, asystole        
+	        - weakness, confusion, decreased breathing rate, decreased reflexes, nausea, low blood pressure, low blood calcium, abnormal heart rhythms and asystole, dizziness, sleepiness, abnormal heart rhythms, asystole
+
+	      - low zinc 
+	      	- acne, eczema, xerosis (dry, scaling skin), seborrheic dermatitis, or alopecia (thin and sparse hair), slow wound healing, oral ulceration, stomatitis, white tongue coating, mouth sores, disrupted smell/taste, night blindness, impaired immunity, diarrhea, low appetite, inflammation, learning disability, irritability, depression, fatigue, adhd, schizophrenia, delayed growth, disrupted estrogen functioning & testosterone production
+
+	      - high zinc
+	      	- nausea, vomiting, pain, cramps and diarrhea
+	      	- copper deficiency, alterations of blood lipoprotein levels, increased levels of LDL, and decreased levels of HDL
+
+	      - low copper
+	      	- anemia, neutropenia (low neutrophil blood count), thrombocytopenia (low blood platelets), myelopathy, peripheral/optic neuropathy (nerve pain)
+
+	      - high copper
+	      	- Wilson's disease: vomiting, weakness, fluid build up in the abdomen, swelling of the legs, yellowish skin, itchiness, tremors, muscle stiffness, trouble speaking, personality changes, anxiety, & psychosis
+	      	- cirrhosis of the liver
+	      	- worsening symptoms of Alzheimer's disease
+
+	      - low chromium
+	      	- severely impaired glucose tolerance, weight loss, peripheral neuropathy and confusion
+
+	      - high chromium
+	      	- free radical damage to DNA
+	      	- oxidation & damage to red blood cells, leading to hemolysis & kidney/liver failure
+
+	      - low iodine
+	      	- low amount of thyroxine (one of the two thyroid hormones) in the blood, which gives rise to high levels of thyroid stimulating hormone (TSH), which stimulates the thyroid gland to increase many biochemical processes; the cellular growth and proliferation can result in the characteristic swelling or hyperplasia of the thyroid gland, or goiter
+	      	- hypothyroidism: extreme fatigue, goiter, mental slowing, depression, weight gain, low basal body temperatures
+	      	- mental retardation
+
+	      - high iodine
+	      	- hyperthyroidism and resulting hyperthyroxinemia (high blood levels of thyroid hormones)
+	      	- high dose of iodine can trigger short-term suppression of thyroid function
+	      	- autoimmune thyroid diseases (Hashimoto's thyroiditis and Graves' disease)
+
+	      - low iron
+	      	- fatigue, dizziness/lightheadedness, pallor, hair loss, twitches, irritability, weakness, pica, brittle/grooved nails, plummer-vinsson (tongue/pharynx/esophagus' mucous membrane atrophy), impaired immunity, pagophagia (compulsive ice consumption), restless leg syndrome
+	      	- iron-deficiency anemia: leading to fatigue, irregular heartbeat, pregnancy complications, delayed growth
+
+	      - high iron
+	      	- vomiting, diarrhea, abdominal pain, drowsiness, tachypnea, low blood pressure, seizures, coma or organ failure
+	      	- sequence of symptom phases:
+		      	- 1. gastrointestinal phase: abdominal pain accompanied by nausea and vomiting or bloody vomiting
+		      	- 2. latent phase: lack of symptoms
+		      	- 3. shock & metabolic acidosis phase: low blood pressure, fever, bleeding, jaundice, seizures, hypovolemic shock from fluid and blood loss
+		      		- metabolic acidosis may also develop damaging internal organs such as the brain and liver
+		      	- 4. hepatotoxicity phase: mortality from liver failure, shock, blood loss and blood-clotting abnormalities can occur
+		      	- 5. bowel scarring/obstruction phase: those who survive iron poisoning experience scarring of the GI mucosal lining resulting in bowel obstruction
+
+	      - low manganese
+		    - poor bone growth or skeletal defects, impaired/delayed growth, low fertility, impaired glucose tolerance (between normal state & diabetes), abnormal carbohydrate/fat metabolism
+	     
+	      - high manganese
+	     	- similar symptoms to MS, ALS, & Parkinson's: 
+	     		- cognitive dysfunction, depression, sensory problems, reduced response speed, irritability, mood changes, and compulsive behaviors
+	     		- difficulty moving, fatigue, muscle weakness, atrophy, muscle spasms, pins & needles, numbness, neuropathic pain (pain caused by nerve damage), spasticity, muscle cramps, and nociceptive pain
+
+	      - low molybdenum
+	      	- high blood methionine, low blood uric acid, low urinary uric acid & sulfate concentrations, coma
+	      	- sulfite oxidase (a molybdoenzyme) deficiency led to increased plasma & urine sulfite, sulfate, thiosulfate, S-sulfocysteine & taurine; seizures, brain atrophy/lesions, dislocated lenses
+
+	      - high molybdenum
+	      	- impaired copper metabolism & utilization, resulting in copper deficiency
+
+	      - low selenium
+	      	- impacts heart & nervous system, leads to depression, anxiety, & dementia, interferes with reproduction & gestation
+	      	- in combination with Coxsackievirus infection can lead to Keshan disease, which is potentially fatal
+	      	- contributes (along with iodine deficiency) to Kashin-Beck disease, which leads to myocardial necrosis & weakening of the heart, atrophy, degeneration and necrosis of cartilage tissue, making body more susceptible to illness
+	      	- lack of conversion of thyroid hormone thyroxine (T4) into triiodothyronine (T3), leading to hypothyroidism, including extreme fatigue, mental slowing, goiter, cretinism, and recurrent miscarriage
+
+	      - high selenium
+	      	- abnormal nails, dermatitis, peripheral neuropathy, nausea, diarrhea, fatigue, irritability, and a garlic odor of the breath
+	      	- severe gastrointestinal & neurological symptoms, acute respiratory distress syndrome, myocardial infarction, hair loss, muscle tenderness, tremors, lightheadedness, facial flushing, kidney failure, cardiac failure
+
+	      - low fluorine
+	      	- tooth decay & osteoporosis
+
+	      - high fluorine
+	      	- fractures, irritable bowel, joint pain
+	      	- kidney injury
+	      		- failure to concentrate urine, leading to polyuria, & subsequent dehydration with hypernatremia & hyperosmolarity
+	      		- inorganic fluoride inhibits adenylate cyclase activity required for antidiuretic hormone effect on the distal convoluted tubule of the kidney
+	      		- fluoride also stimulates intrarenal vasodilation, leading to increased medullary blood flow, which interferes with the counter current mechanism in the kidney required for concentration of urine
+	      	- suppresses thyroid function, especially when iodine is low
+
+	      - low chloride
+	      	- disregulation of functions
+	      		- regulating osmotic pressure, electrolyte balance & acid-base homeostasis, extracellular fluid tonicity, cell homeostasis & transmitting action potentials in neurons, building amylase (enzyme that hydrolyzes starch into sugar)
+	      	- hypoventilation
+	      	- associated with chronic respiratory acidosis & cystic fibrosis
+	      	- if it occurs together with metabolic alkalosis (decreased blood acidity) it is often due to vomiting
+	      	- usually the result of hyponatremia or elevated bicarbonate concentration
+
+	      - high chloride
+		    - asymptomatic, but causes of hyperchloremia (like vomiting) do have symptoms
+			    Dehydration - due to diarrhea, vomiting, sweating
+			    Hypertension - due to increased sodium chloride intake
+			    Cardiovascular dysfunction - due to increased sodium chloride intake
+			    Edema - due to influx in sodium in the body
+			    Weakness - due to loss of fluids
+			    Thirst - due to loss of fluids
+			    Kussmaul breathing - due to high ion concentrations, loss of fluids, or kidney failure
+			    High blood sugar - due to diabetes
+			    Hyperchloremic metabolic acidosis - due to severe diarrhea and/or kidney failure
+			    Respiratory alkalosis - due to renal dysfunction
 	      
 	      - low calcium
 	      	- numbness, muscle spasms, seizures, confusion, or cardiac arrest
