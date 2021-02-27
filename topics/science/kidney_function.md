@@ -60,8 +60,6 @@
 
 	- risk of cardiovascular events was increased in both the group with the highest & lowest protein intake
 
-	- avoid excessive oxalates (collagen), which can lead to conditions like hypercalcemia
-
 	- keep your cholesterol low
 		- cholesterol-lowering supplements
 		  - plant sterols
@@ -109,7 +107,6 @@
 		- urinary blood clots
 		- kidney stones
 
-
 - kidney damage complications
 	- progression
 		- uremia
@@ -134,28 +131,81 @@
 		- low calorie diet for renal damage repair
 			- VLCKD is a nutritional protocol that resembles fasting through a marked restriction of daily carbohydrate intake, usually lower than 30 g/day (≃ 13% of total energy intake) along with a relative increase in the proportions of fat (≃ 44%) and protein (≃ 43%) and a total daily energy intake < 800 kcal
 
+	- avoid certain cooking methods (eat raw/steamed/boiled where possible & if toxins dont need to be cooked out of the food)
+
+		- avoid producing carcinogens like nitrosamines
+			- high-heat (frying/roasting/grilling/charring/toasting)
+			- fermented foods
+
+		- reduce toxins in food 
+			- roasting seeds/nuts (peanuts, sacha inchi, flax) can reduce some toxic compounds like cyanide, saponins, alkaloids, & lectins
+			- not chewing/grinding these can reduce your absorption of compounds like cyanide, since the seed is not digested the same way if its not broken open
+
+		- reduce carbs in food 
+			- produces resistant starch
+				- soak in water overnight before cooking
+				- cool after cooking
+			- fermentation
+				- converts carbohydrates to alcohol or organic acids using microorganisms—yeasts or bacteria—under anaerobic conditions
+
+
 	- avoid:
+
 		- any artificial substances, which will get in your blood and may not get filtered out by your damaged filtration organs, which may cause structural damage & mutations leading to cancer
+		
 		- histidine & angiotensin 11 receptor blockers, regarding glomerulonephritis
 			- Angiotensin_II_receptor_blockers reduce kidney function in the form of reducing glomerular repair
 			- Angiotensin_II_receptor_blocker share a imidazole component with histidine
+		
 		- acidic foods: meat, fish, dairy, egg yolk, nuts, grains, carbonated drinks
 
-	- avoid excessive:
-	    - sodium, potassium, phosphorus, calcium	
-	    	- excess phosphate can cause low calcium levels, which can result in muscle spasms
+	    - nitrosamines
+	      - charring meat increases nitrosamines that can lead to cancer of the stomach & other systemic health problems
+	        - these compounds are present in other foods in lower amounts which when cooked in a particular way (like at a certain temperature or consumed with fat), can be reduced or increased
+	      	- https://pubmed.ncbi.nlm.nih.gov/6831466/
+
+	      	- fungi found in & fermentation applied to fermented foods can produce nitrosamines
+		      	- Some common fungi can facilitate the formation of N-nitroso compounds, which are strong oesophageal carcinogens in several animal models
+		      	- Roussin red methyl ester, a non-alkylating nitroso compound with tumour-promoting effect in vitro, was identified in pickles from Linxian in much higher concentrations than in samples from low-incidence areas. Fumonisin mycotoxins have been shown to cause liver and kidney tumours in rodents
+				- A 2017 study in Chinese Journal of Cancer has linked salted vegetables (common among Chinese cuisine) to a fourfold increase in nasopharynx cancer, where fermentation was a critical step in creating nitrosamines, some of which are confirmed carcinogens, as well as activation of Epstein–Barr virus by fermentation products
+		    
+	    - acrylamide
+	      - produced by cooking foods like coffee (roasted coffee beans), grains (barley, rice), & starchy vegetables (potatoes)
+	      - overcooking those foods, refridgerating them before cooking, or cooking them in certain ways (roasting/frying/toasting/grilling) can increase this compound
+	      - boiling/steaming these foods doesnt increase the compound, and soaking before cooking reduces the production of the compound
+	      - https://www.cancer.org/cancer/cancer-causes/acrylamide.html
+
+  - avoid substances in excess
+
+	    - compounds in nuts/seeds, such as:
+	      - flax 
+	        - cyanide
+	      - sacha inchi 
+	        - contain alkaloids, saponins, and lectins in large enough proportions to potentially cause toxicity unless roasted
+	    
+	    - carnitine has been found to cause atherosclerosis, the hardening or clogging of the arteries
+	      - carnitine converts to a heart-damaging compound, trimethylamine-N-oxide (TMAO), via bacteria in the intestine
+	    
+	    - iron which, when eaten in excess, can raise levels of iron in the brain and may increase the risk of developing Alzheimer’s disease, according to a recent study from UCLA. 
+	      - When iron accumulates in the brain, myelin—a fatty tissue that coats nerve fibers—is destroyed. This disrupts brain communication, and signs of Alzheimer’s appear
+
 	    - choline 
-	    - arginine
-	    - aspirin, nsaids
-	    - blood thinners or interactive supplements (garlic, saw palmetto)
+	    - arginine (arginine may help or hurt depending on cause of kidney/heart damage or other cause of similar symptoms to kidney/heart damage)
+	    - aspirin, nsaids, blood thinners or other interactive supplements (garlic, saw palmetto)
 	    - saturated fat/cholesterol/salt
 	    - stevia: acceptable daily intake for stevia glycosides is 4 milligrams (mg) per kilogram of body weight (1 tsp max)
-	    - high potassium herbs:
-	      - alfalfa, dandelion, garlic, lemongrass, nettle, turmeric
-	    - high phosphorus herbs:
-	      - flax, milk thistle, onion, nettle, turmeric, sunflower
+	    
+	    - imbalanced electrolytes/minerals
+	    	- sodium, potassium, phosphorus, calcium	
+	    	- excess phosphate can cause low calcium levels, which can result in muscle spasms
+		    - high potassium herbs:
+		      - alfalfa, dandelion, garlic, lemongrass, nettle, turmeric
+		    - high phosphorus herbs:
+		      - flax, milk thistle, onion, nettle, turmeric, sunflower
+	    
 	    - avoid in excess with kidney disease bc depending on the type of kidney problem you have, these may exacerbate it:
 	      - astragalus, goldenrod, horsetail, java, nettle, oregon grape, parsley, uva ursi, yohimbe, juniper, sage
+	    
 	    - oxalate
 	    	- high oxalate: nuts, chocolate, soy, beans, starchy vegetables, & greens
 			- low oxalate: mushrooms, cucumbers, celery, iceberg lettuce & cauliflower
@@ -591,26 +641,148 @@
 
 - symptoms of kidney damage cause types: https://www.aafp.org/afp/2012/1001/p631.html
 
-	- symptoms of related conditions
+	- other causes of similar possibly unrelated symptoms (differential diagnosis)
+		- Signs of an allergic reaction, like rash; hives; itching; red, swollen, blistered, or peeling skin with or without fever; wheezing; tightness in the chest or throat; trouble breathing, swallowing, or talking; unusual hoarseness; or swelling of the mouth, face, lips, tongue, or throat.
+		- Signs of a pancreas problem (pancreatitis) like very bad stomach pain, very bad back pain, or very bad upset stomach or throwing up.
+		- Signs of liver problems like dark urine, feeling tired, not hungry, upset stomach or stomach pain, light-colored stools, throwing up, or yellow skin or eyes.
+		- Signs of bleeding like throwing up or coughing up blood; vomit that looks like coffee grounds; blood in the urine; black, red, or tarry stools; bleeding from the gums; abnormal vaginal bleeding; bruises without a cause or that get bigger; or bleeding you cannot stop.
+		- Signs of infection like fever, chills, very bad sore throat, ear or sinus pain, cough, more sputum or change in color of sputum, pain with passing urine, mouth sores, or wound that will not heal.
+		- Signs of high blood sugar like confusion, feeling sleepy, more thirst, more hungry, passing urine more often, flushing, fast breathing, or breath that smells like fruit.
+		- Signs of stroke like weakness on 1 side of the body, trouble speaking or thinking, change in balance, drooping on one side of the face, or blurred eyesight. 
 
-	  - diabetic ketoacidosis
-	      - when the body switches to burning fatty acids, which produces acidic ketone bodies
-	      - DKA is typically diagnosed when testing finds high blood sugar, low blood pH and ketoacids in either the blood or urine
-	      - symptoms
-	        - nausea and vomiting, pronounced thirst, excessive urine production and abdominal pain that may be severe
-	        - in severe DKA, breathing becomes rapid and of a deep, gasping character, called "Kussmaul breathing"
-	        - abdomen may be tender to the point that a serious abdominal condition may be suspected, such as acute pancreatitis, appendicitis or gastrointestinal perforation
-	        - Vomiting altered blood that resembles coffee grounds occurs in a minority of people and tends to originate from erosion of the esophagus
-	        - In severe DKA, there may be confusion or a marked decrease in alertness, including coma
-	        - brain swelling, also called cerebral edema, which may cause headache, coma, loss of the pupillary light reflex
+	- other causes of symptoms that may occur with kidney damage
+
+		- dysphagia (throat tightness)
+			- low calcium 
+		    - increased thyroid size: lack of iodine
+		    - anaphylaxis: shellfish allergy
+		    - calciphylaxis: calcium buildup 
+		    - thyroid
+		    - acid reflux
+		    - cardiovascular conditions (heart failure)
+			    - congestive heart failure 
+			        - When the left atrium is enlarged and under increased pressure, the esophagus may be compressed causing dysphagia
+			        - fluid backup into your lungs because of congestive heart failure (CHF), this can cause difficulty breathing while lying down (orthopnea)
+		    - fluid/electrolyte imbalance
+		    - stroke
+		    - tonsillitis
+
+		- dehydration
+			- diabetic ketoacidosis
+			- may cause impaired kidney function
+
+		- rapid heart rate & low blood pressure 
+		    - dehydration, causing dry mouth, decrease in circulating blood volume
+
+	- symptoms of related conditions
+	  
+	  - controlling high blood pressure/cholesterol can help recover from/reduce/prevent further damage, as well as avoid further complications like blood clots
+
+	  - general signs of kidney problems like unable to pass urine, change in how much urine is passed, blood in the urine, or a big weight gain.
+
+	  - ketoacidosis
+
+	  	- possible causes
+	  		- a high-fat diet that’s low in carbohydrates
+		    - kidney failure
+		    - obesity
+		    - dehydration
+		    - aspirin or methanol poisoning
+		    - diabetes
+
+		- metabolic acidosis causes (https://www.healthline.com/health/acidosis#causes)
+
+		  	- Diabetic acidosis occurs in people with diabetes that’s poorly controlled. 
+		  		- If your body lacks enough insulin, ketones build up in your body and acidify your blood
+
+	    	- Hyperchloremic acidosis results from a loss of sodium bicarbonate. 
+	    		- This base helps to keep the blood neutral. Both diarrhea and vomiting can cause this type of acidosis
+
+	    	- Lactic acidosis occurs when there’s too much lactic acid in your body. 
+	    		- Causes can include chronic alcohol use, heart failure, cancer, seizures, liver failure, prolonged lack of oxygen, and low blood sugar. 	
+	    		- Even prolonged exercise can lead to lactic acid buildup
+
+	    	- Renal tubular acidosis occurs when the kidneys are unable to excrete acids into the urine. 
+	    		- This causes the blood to become acidic
+
+    	- complications
+    	    - acidosis can cause kidney stones, chronic kidney problems & kidney failure (which can cause other organ damage like heart damage)
+		    - bone disease
+		    - delayed growth
+
+		- symptoms
+			- respiratory acidosis
+			    fatigue or drowsiness
+			    becoming tired easily
+			    confusion
+			    shortness of breath
+			    sleepiness
+			    headache
+
+			- metabolic acidosis
+			    - rapid and shallow breathing
+			    - confusion
+			    - fatigue, sleepiness
+			    - headache
+			    - lack of appetite
+			    - jaundice
+			    - increased heart rate
+
+				- diabetic ketoacidosis
+			      - when the body switches to burning fatty acids, which produces acidic ketone bodies
+			      - DKA is typically diagnosed when testing finds high blood sugar, low blood pH and ketoacids in either the blood or urine
+			      - symptoms
+			        - nausea and vomiting, pronounced thirst, excessive urine production and abdominal pain that may be severe
+			        - in severe DKA, breathing becomes rapid and of a deep, gasping character, called "Kussmaul breathing"
+			        - abdomen may be tender to the point that a serious abdominal condition may be suspected, such as acute pancreatitis, appendicitis or gastrointestinal perforation
+			        - Vomiting altered blood that resembles coffee grounds occurs in a minority of people and tends to originate from erosion of the esophagus
+			        - In severe DKA, there may be confusion or a marked decrease in alertness, including coma
+			        - brain swelling, also called cerebral edema, which may cause headache, coma, loss of the pupillary light reflex
+			        - "ketotic" odor is present, which is often described as "fruity" or like "pear drops". The smell is due to the presence of acetone
+				    - shortage in body fluid & substantial shortages in sodium, potassium, chloride, phosphate, magnesium and calcium
+				    - low co2
+				    - low ph level (acidic) of blood
+				        - low pH level (acidic) of less than 4.6 may indicate diabetic ketoacidosis, diarrhea or starvation
+					    - possible treatments to regulate urine ph: 
+					        - magnesium & calcium citrate may alkalize urine ph (increase the ph)
+					            - if urine is too acidic, you are at risk for uric acid-based kidney stones
+				    - dehydration
+				    - low phosphorus (can cause blood pressure problems, nerve pain)
+		    
+		- possible treatments for acidosis
+
+		  	- reducing acidic foods (such as animal protein, coffee, dairy)
+
+		  	- regulating weight & blood sugar
+
+		  	- fixing other possible causes of acidosis like organ damage
+
+		    - adding substances with an alkalizing effect, balancing electrolytes/minerals (sodium bicarbonate, magnesium, potassium, & calcium)
+		      
+		      - replacing some of your fluids with alkaline water may help reduce symptoms of acidosis
+		        - you still need normal water
+		        - all of your water intake shouldnt be replaced with alkaline water or other liquids with electrolytes - doing so will probably create an imbalance
+		      
+		      - safe sodium bicarbonate dose
+		        - safely consume 325 to 2,000 mg of baking soda 1 to 3 times daily, if no other conditions are present & total sodium consumed is within rda
+		      
+		      - diagnose ketosis & ketoacidosis by testing blood for:
+		      	- β-hydroxybutyrate, which, as with other ketone bodies, increases through ketosis
+			        - this elevated β-hydroxybutyrate level is naturally expected, as β-hydroxybutyrate is formed from acetoacetate
+			        - the compound can be used as an energy source by the brain when blood glucose is low
 
 	  - electrolyte imbalance: 
 
 	    - treatments (disregarding medical prescriptions if you cant get them)
 	        - high phosphorus: calcium carbonate/acetate
 	        - high calcium: fluid or calcitonin
+				- salt, citrate, oxalate can bind to or help get rid of excess calcium
+				- excess oxalates can also cause kidney stones, leading to loss of kidney function and poor regulation of substances like calcium (which can cause problems like high calcium levels)
+
 	        - high sodium: water (thiazide diuretics like chlorthalidone in congestive heart failure or corticosteroids in nephropathy)
 	        - high potassium: calcium gluconate, sodium bicarbonate
+	        - high blood pressure: 
+	        	- quercetin, garlic, hawthorne, hibiscus, olive oil, green tea
 
 	    - related conditions to electrolyte imbalance
 
@@ -641,11 +813,11 @@
 		  		- copper & zinc deficiency
 		  		- copper & b12 deficiency
 		  		- increased calcium & iodine deficiency
+		  		- increased fluoride & iodine deficiency
 
 		  	- manganese deficiency inhibits collagen
 		  	- high iron/magnesium/calcium may inhibit manganese
 		  	- high molybdenum leads to copper deficiency
-		  	- high fluoride associated with lower iodine
 		  	
 		  	- disturbed iron metabolism could underlie the neurotoxic action of manganese
 
@@ -668,10 +840,11 @@
 	    	- if your potassium spikes suddenly, you may experience difficulty breathing, chest pain, or heart palpitations, numbness or tingling, vomiting, irregular pulse
 
 	      - low phosphorus 
+	      	- low phosphorus can cause blood pressure problems & nerve pain
 	        - Muscle dysfunction and weakness – occurs in major muscles, but also may manifest as: diplopia, low cardiac output, dysphagia, and respiratory depression due to respiratory muscle weakness
 	        - Mental status changes – This may range from irritability to gross confusion, delirium, and coma
 	        - White blood cell dysfunction, causing worsening of infections
-	        - Instability of cell membranes due to low adenosine triphosphate (ATP) levels – This may cause rhabdomyolysis (skeletal muscle breakdown) with increased serum levels of creatine phosphokinase, and also hemolytic anemia.
+	        - Instability of cell membranes due to low adenosine triphosphate (ATP) levels – This may cause rhabdomyolysis (skeletal muscle breakdown) with increased serum levels of creatine phosphokinase, and also hemolytic anemia.s
 	        - Increased affinity for oxygen in the blood caused by decreased production of 2,3-bisphosphoglyceric acid
 
 	      - high phosphorus 
@@ -900,7 +1073,7 @@
 			Bladder distention, pelvic mass, prostate enlargement
 
 
-- general symptoms
+- general kidney damage symptoms
 
     Fluid buildup. Acute kidney failure can sometimes cause a buildup of fluid in your body. If fluid builds up in your lungs, this can cause shortness of breath.
 	Chest pain. If the lining that covers your heart  becomes inflamed, you may have chest pain.
